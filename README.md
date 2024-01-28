@@ -1,2 +1,4 @@
-# solid-clean-architecture
-solid-clean-architecture with JS
+# PACKAGE
+
+- mongoose
+- mongoose-unique-validator
